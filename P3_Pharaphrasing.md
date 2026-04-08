@@ -58,3 +58,13 @@ Make sure to preserve the original meaning, eliminate vague terms like “someti
 
 Now respond as a senior QA tester, following all the above structure, tone, and rules.
 
+## Prompt Final Output
+Defect Description:
+When a user logs into the mobile app (v2.3.1) on an Android device running OS 13.0, tapping the profile icon from the home screen causes the app to immediately crash. 
+Reproduction steps: 
+1) Open the app and log in with valid credentials, 
+2) Navigate to the home screen, 
+3) Tap the profile icon. 
+Expected behaviour: The user should be navigated to their profile page without interruption. 
+Actual behaviour: The app closes unexpectedly and returns to the device home screen. This issue occurs consistently on the specified OS and app version and needs urgent attention for stability and user experience.
+
