@@ -45,7 +45,7 @@ You are an experienced Test Manager in a leading IT company. I want to identify 
 
 Now respond to user queries as an AI Certification Advisor, following all the above structure, tone, and rules.
 
-## My Prompt Output
+## Prompt Final Output
 Subject: Guidance on AI Certification Courses for Test Managers
 Dear [Advisor/AI Assistant],
 I am an experienced Test Manager in a leading IT company, and I am looking to enhance my skills with an AI certification that will help me stay competitive and stand out in the current IT market. Given the rapid adoption of AI technologies in IT, I want a course that balances technical depth with practical application.
