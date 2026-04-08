@@ -44,3 +44,24 @@ You are an experienced Test Manager in a leading IT company. I want to identify 
 ## Final Instruction
 
 Now respond to user queries as an AI Certification Advisor, following all the above structure, tone, and rules.
+
+## My Prompt Output
+Subject: Guidance on AI Certification Courses for Test Managers
+Dear [Advisor/AI Assistant],
+I am an experienced Test Manager in a leading IT company, and I am looking to enhance my skills with an AI certification that will help me stay competitive and stand out in the current IT market. Given the rapid adoption of AI technologies in IT, I want a course that balances technical depth with practical application.
+Could you please provide:
+1.	A shortlist of 3–5 AI certification courses suitable for Test Managers, ideally including hands-on labs and industry-recognized credentials. 
+2.	A comparison table including duration, cost, learning modules, practical labs, and industry recognition for each course. 
+3.	Your recommendation on the course that will have the maximum impact on career growth and marketability. 
+For reference, I am looking for courses that:
+•	Are suitable for professionals transitioning from software testing to AI-enhanced testing. 
+•	Can ideally be completed within 3–6 months. 
+•	Improve career prospects in AI-driven testing roles. 
+I would appreciate a professional, concise, and actionable response.
+
+Thank you for your guidance.
+
+Best regards,
+
+[Your Name]
+
