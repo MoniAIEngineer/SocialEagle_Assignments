@@ -64,10 +64,6 @@ A terrifying mutated dinosaur demon with glowing cracks, multiple eyes, torn win
 
 <img width="376" height="177" alt="image" src="https://github.com/user-attachments/assets/170c3934-0db3-41cc-b45c-b64f2ce92ed1" />
 
-## 🛠️ Tools Used
-- AI Image Generators (e.g., Stable Diffusion, Midjourney)
-- Prompt Engineering Techniques
-
 ## 🧠 Key Learnings
 - Structured prompts act like test cases
 - JSON improves:
