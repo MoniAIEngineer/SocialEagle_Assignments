@@ -38,6 +38,10 @@ A horror dinosaur demon walking in a dark swamp
   "style": "cinematic horror"
 }
 
+## 🎞️ Visual Flow Diagram of the Movie Scenes
+
+<img width="446" height="299" alt="image" src="https://github.com/user-attachments/assets/12cc6697-40a1-4f65-aea6-ec392cdd9f5b" />
+
 ## 🎞️ Output Comparison
 
 <img width="402" height="206" alt="image" src="https://github.com/user-attachments/assets/2de9e55a-0131-4431-937e-1b9966b4ad2c" />
